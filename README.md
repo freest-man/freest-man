@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**freest-man/freest-man** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Sasisekaran B</h1>
+<h3 align="center">Data Analytics Conusultant</h3>
 
-Here are some ideas to get you started:
+- EPL Stats Explorer Web App [Deployed Here](https://footballapp.streamlit.app/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Churn Prediction Demo UI [Deployed Here](https://churnpredicting.streamlit.app/)
+
+- I actively write content on X [Shoot me a DM](https://twitter.com/freest_man)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
