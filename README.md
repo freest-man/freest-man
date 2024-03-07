@@ -1,7 +1,5 @@
-### Hi there 👋
-
-<h1 align="center">Hi 👋, I'm Sasisekaran B</h1>
-<h3 align="center">Data Analytics Conusultant</h3>
+### Hi 👋, I'm Sasisekaran B
+Data Analytics Consultant
 
 - EPL Stats Explorer Web App [Deployed Here](https://footballapp.streamlit.app/)
 
